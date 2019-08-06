@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2019 Jane Doe <jane@example.com>
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # REUSE Example
 
 This file is an example repository for REUSE compliance.  It is identical to
